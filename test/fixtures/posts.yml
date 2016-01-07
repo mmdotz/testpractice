@@ -1,0 +1,14 @@
+#post fixtures are not in quotes
+
+postX:
+  title: Testing in Rails
+  content: Rails makes it super easy to write your tests. It starts by producing
+  skeleton test code while you are creating your models and controllers. By
+  simply running your Rails tests you can ensure your code adheres to the desired
+  functionality even after some major code refactoring.
+  published: false
+
+  postY:
+    title: Testing in Rails with rSpec
+    content: I'm learning how basic tests work before moving on to rSpec.
+    published: true
