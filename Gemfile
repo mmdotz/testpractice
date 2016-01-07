@@ -34,7 +34,7 @@ gem 'bcrypt'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0.0'
-  gem 'factory_girl_rails'
+  gem 'factory_girl_rails', '~> 4.4.0'
   gem 'capybara'
   gem 'database_cleaner'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
